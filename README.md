@@ -11,3 +11,8 @@
 4. Запусти тести:
    npm test
 
+або
+
+npm install
+npx playwright install
+npm test
